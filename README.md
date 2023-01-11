@@ -1,4 +1,5 @@
 # Demographic Data Analyzer
+![Sem Título-1](https://user-images.githubusercontent.com/110063438/211704526-afa9711f-a666-4581-baac-7462ce08d679.png)
 
 In this challenge you must analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database. Here is a sample of what the data looks like:
 
